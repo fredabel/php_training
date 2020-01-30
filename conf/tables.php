@@ -1,0 +1,3 @@
+<?php
+
+define('USERS','users');
